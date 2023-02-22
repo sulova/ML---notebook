@@ -21,5 +21,4 @@ When features are collinear, permutating one feature will have little effect on 
 information from a correlated feature. One way to handle multicollinear features is by performing hierarchical clustering on the Spearman rank-order 
 correlations, picking a threshold, and keeping a single feature from each cluster. First, we plot a heatmap of the correlated features:
 
-![image](https://user-images.githubusercontent.com/44543964/220554712-c6cb6cb3-fe94-4f5a-abac-21c249c2f3cf.png)
 
