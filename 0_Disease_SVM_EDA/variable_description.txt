@@ -1,0 +1,22 @@
+Age - Age of the patient (0.01–0.97). Continuous variable.
+Sex - Sex of the patient, 0 (Male) 1 (Female). Binary variable.
+On_thyroxine - 0 (FALSE) 1 (TRUE). Binary variable.
+Query_on_thyroxine - 0 (FALSE) 1 (TRUE). Binary variable.
+On_antithyroid_medication - 0 (FALSE) 1 (TRUE). Binary variable.
+Sick - 0 (FALSE) 1 (TRUE). Binary variable.
+Pregnant - 0 (FALSE) 1 (TRUE). Binary variable.
+Thyroid_surgery - 0 (FALSE) 1 (TRUE). Binary variable.
+I131_treatment - 0 (FALSE) 1 (TRUE). Binary variable.
+Query_hypothyroid - 0 (FALSE) 1 (TRUE). Binary variable.
+Query_hyperthyroid - 0 (FALSE) 1 (TRUE). Binary variable.
+Lithium - 0 (FALSE) 1 (TRUE). Binary variable.
+Goitre - 0 (FALSE) 1 (TRUE). Binary variable.
+Tumor - 0 (FALSE) 1 (TRUE). Binary variable.
+Hypopituitary - 0 (FALSE) 1 (TRUE). Binary variable.
+Psych - 0 (FALSE) 1 (TRUE). Binary variable.
+TSH - amount of TSH (0.0–0.53). Continuous variable.
+T3 - amount of T3 (0.0005–0.18). Continuous variable.
+TT4 - amount of TT4 (0.002–0.6). Continuous variable.
+T4U - amount of T4U (0.017–0.233). Continuous variable.
+FTI - amount of FTI (0.002–0.642). Continuous variable.
+Class - 1 (normal) 2 (hyperthyroidism) 3 (hypothyroidism). Class variable.
