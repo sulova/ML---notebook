@@ -14,7 +14,7 @@ SVM is well suited for classification of complex but small or medium sized datas
 </div>
 
 <p align="center">
-  <img width="600" height="300" src="[https://github.com/sulova/Data_Science_Disease_SVM/blob/main/SVM.PNG](https://github.com/sulova/ML-Notebook/blob/main/0_Disease_SVM_EDA/SVM.PNG)">
+  <img width="600" height="300" src="https://github.com/sulova/Data_Science_Disease_SVM/blob/main/SVM.PNG](https://github.com/sulova/ML-Notebook/blob/main/0_Disease_SVM_EDA/SVM.PNG)">
 </p>
 
 **The advantages of SVM**
